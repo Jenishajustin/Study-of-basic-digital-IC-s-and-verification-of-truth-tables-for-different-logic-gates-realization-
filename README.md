@@ -80,9 +80,11 @@ Logic symbol & Truthtable
 
 Output:
 RTL:
-![exp1 log](https://user-images.githubusercontent.com/119405070/232262182-a5b29ff1-67ff-4fbd-a468-a81ab8b9f88c.png)
+![exp1 log](https://user-images.githubusercontent.com/119405070/232262432-073ef03b-873f-475c-b729-dc3a133b1483.png)
+
 TIMING DIAGRAM:
-![exp1](https://user-images.githubusercontent.com/119405070/232262205-087730fd-4875-4849-9508-b189d23d75d3.png)
+![exp1](https://user-images.githubusercontent.com/119405070/232262441-1830f047-4acf-4010-a5ef-ca4d962b09d8.png)
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
