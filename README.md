@@ -76,9 +76,13 @@ xnor (y7,a,b);
 endmodule 
 ```
 Logic symbol & Truthtable
-RTL realization
+![exp1 logic gate](https://user-images.githubusercontent.com/119405070/232262237-ba8a20b3-7419-4d15-9d50-91d700cfc5b9.png)
+
 Output:
-RTL
+RTL:
+![exp1 log](https://user-images.githubusercontent.com/119405070/232262182-a5b29ff1-67ff-4fbd-a468-a81ab8b9f88c.png)
+TIMING DIAGRAM:
+![exp1](https://user-images.githubusercontent.com/119405070/232262205-087730fd-4875-4849-9508-b189d23d75d3.png)
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
