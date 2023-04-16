@@ -79,6 +79,7 @@ Logic symbol & Truthtable
 ![exp1 logic gate](https://user-images.githubusercontent.com/119405070/232262237-ba8a20b3-7419-4d15-9d50-91d700cfc5b9.png)
 
 Output:
+
 RTL:
 ![exp1 log](https://user-images.githubusercontent.com/119405070/232262432-073ef03b-873f-475c-b729-dc3a133b1483.png)
 
