@@ -80,7 +80,8 @@ Logic symbol & Truthtable
 
 Output:
 RTL:
-![exp1 log](https://user-images.githubusercontent.com/119405070/232262432-073ef03b-873f-475c-b729-dc3a133b1483.png)
+![exp1 log](https://user-images.githubusercontent.com/119405070/232262563-990659cb-4ab7-4326-b8d0-fc0960d4233f.png)
+
 
 TIMING DIAGRAM:
 ![exp1](https://user-images.githubusercontent.com/119405070/232262441-1830f047-4acf-4010-a5ef-ca4d962b09d8.png)
